@@ -5,3 +5,5 @@
 /datadeal/tmpData/
 /model/
 *.pyc
+
+/tmpData/
